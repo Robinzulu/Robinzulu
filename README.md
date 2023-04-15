@@ -1,5 +1,6 @@
-Microsoft Movie Analysis
-Overview
+**Microsoft Movie Analysis**
+
+/n Overview
 This project analyzes movie data to provide recommendations for Microsoft's new movie studio. The data includes information on movie genres, box office revenues, ratings, and more.
 
 Data Sources
